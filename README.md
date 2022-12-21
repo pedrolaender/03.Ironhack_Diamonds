@@ -4,7 +4,7 @@
 
 # Diamonds
 
-  Project Completed
+  Project Completed.
 ## Abstract
 
   This project has the objective to make a Linear Regression Model on a diamonds features and price dataset in order to make a prediction of the price of other diamonds dataset containing only the features. The goal for this project is to achieve a Root Mean Sqarred Error (RMSE) < 900.
